@@ -5,8 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: Divelia Cotis
     url: $DIVELIA_COTIS
-  - name: Fake site
-    url: https://thissitedoesnotexist.koj.co
+    maxResponseTime: 5000
 
 # assignees: # Users to assign downtime issues (optional)
 #   - diveliastudio
