@@ -6,7 +6,9 @@ sites:
   - name: Divelia Cotis
     url: $DIVELIA_COTIS
     maxResponseTime: 5000
-
+  - name: Acadia dev
+    url: $ACADIA_DEV
+    maxResponseTime: 5000
 # assignees: # Users to assign downtime issues (optional)
 #   - diveliastudio
 
@@ -27,3 +29,5 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  uptime: "*/10 * * * *"
