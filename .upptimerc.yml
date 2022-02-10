@@ -12,12 +12,12 @@ sites:
   - name: Alilab
     url: $URL_ALILAB
   - name: Alilab front
-    url: $URL_ALILAB_FRONT
+    url: "$URL_ALILAB_FRONT"
   
   - name: Refuerza
     url: $URL_REFUERZA
   - name: Refuerza front
-    url: $URL_REFUERZA_FRONT
+    url: "$URL_REFUERZA_FRONT"
   
   - name: Usamedic
     url: $URL_USAMEDIC
