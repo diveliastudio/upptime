@@ -22,19 +22,19 @@
     "url": "$ACADIA_DEV",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "acadia-dev",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 655,
-    "timeDay": 655,
-    "timeWeek": 655,
-    "timeMonth": 655,
-    "timeYear": 655,
+    "status": "up",
+    "uptime": "99.19%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.19%",
+    "time": 598,
+    "timeDay": 598,
+    "timeWeek": 598,
+    "timeMonth": 598,
+    "timeYear": 598,
     "dailyMinutesDown": {
-      "2022-02-10": 0
+      "2022-02-10": 7
     }
   }
 ]
