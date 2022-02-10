@@ -4,25 +4,25 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Divelia Cotis
-    url: "$URL_DIVELIA_COTIS"
+    url: "$URL_DIVELIACOTIS"
     
   - name: Acadia dev
-    url: "$URL_ACADIA_DEV"
+    url: "$URL_ACADIADEV"
 
   - name: Alilab
     url: "$URL_ALILAB"
   - name: Alilab front
-    url: "$URL_ALILAB_FRONT"
+    url: "$URL_ALILABFRONT"
   
   - name: Refuerza
     url: "$URL_REFUERZA"
   - name: Refuerza front
-    url: "$URL_REFUERZA_FRONT"
+    url: "$URL_REFUERZAFRONT"
   
   - name: Usamedic
     url: "$URL_USAMEDIC"
   - name: Usamedic dev
-    url: "$URL_USAMEDIC_DEV"
+    url: "$URL_USAMEDICDEV"
   
   - name: HIAS
     url: "$URL_HIAS"
