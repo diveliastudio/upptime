@@ -4,28 +4,28 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Divelia Cotis
-    url: ${{ secrets.URL_DIVELIACOTIS }}
+    url: "$COTIS_DIVELIA"
     
   - name: Acadia dev
-    url: ${{ secrets.URL_ACADIADEV }}
+    url: "$ACADIA"
 
   - name: Alilab
-    url: ${{ secrets.URL_ALILAB }}
+    url: "$ALILAB"
   - name: Alilab front
-    url: ${{ secrets.URL_ALILABFRONT }}
+    url: "$FRONT_ALILAB"
   
   - name: Refuerza
-    url: ${{ secrets.URL_REFUERZA }}
+    url: "$REFUERZA"
   - name: Refuerza front
-    url: ${{ secrets.URL_REFUERZAFRONT }}
+    url: "$FRONT_REFUERZA"
   
   - name: Usamedic
-    url: ${{ secrets.URL_USAMEDIC }}
+    url: "$USAMEDIC"
   - name: Usamedic dev
-    url: ${{ secrets.URL_USAMEDICDEV }}
+    url: "$DEV_USAMEDIC"
   
   - name: HIAS
-    url: ${{ secrets.URL_HIAS }}
+    url: "$HIAS"
     
 # assignees: # Users to assign downtime issues (optional)
 #   - diveliastudio
