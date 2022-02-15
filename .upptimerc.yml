@@ -6,7 +6,7 @@ sites:
   - name: Divelia Cotis
     url: "$COTIS_DIVELIA"
     
-  - name: Acadia dev
+  - name: Acadia
     url: "$ACADIA"
 
   - name: Alilab
