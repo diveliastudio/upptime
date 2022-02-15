@@ -10,11 +10,11 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 341,
-    "timeDay": 300,
-    "timeWeek": 355,
-    "timeMonth": 341,
-    "timeYear": 341,
+    "time": 344,
+    "timeDay": 336,
+    "timeWeek": 359,
+    "timeMonth": 344,
+    "timeYear": 344,
     "dailyMinutesDown": {
       "2022-02-10": 16
     }
@@ -24,9 +24,9 @@
     "url": "$ACADIA",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "acadia-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.59%",
@@ -36,6 +36,7 @@
     "timeMonth": 588,
     "timeYear": 588,
     "dailyMinutesDown": {
+      "2022-02-15": 0,
       "2022-02-13": 21,
       "2022-02-10": 15
     }
@@ -51,11 +52,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.79%",
-    "time": 1046,
-    "timeDay": 251,
-    "timeWeek": 1046,
-    "timeMonth": 1046,
-    "timeYear": 1046,
+    "time": 991,
+    "timeDay": 278,
+    "timeWeek": 991,
+    "timeMonth": 991,
+    "timeYear": 991,
     "dailyMinutesDown": {
       "2022-02-10": 15
     }
@@ -66,16 +67,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "alilab-front",
     "status": "up",
-    "uptime": "99.51%",
+    "uptime": "99.52%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.51%",
-    "time": 441,
-    "timeDay": 544,
-    "timeWeek": 441,
-    "timeMonth": 441,
-    "timeYear": 441,
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
+    "time": 461,
+    "timeDay": 603,
+    "timeWeek": 461,
+    "timeMonth": 461,
+    "timeYear": 461,
     "dailyMinutesDown": {
       "2022-02-10": 35
     }
@@ -91,11 +92,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.79%",
-    "time": 322,
-    "timeDay": 303,
-    "timeWeek": 322,
-    "timeMonth": 322,
-    "timeYear": 322,
+    "time": 327,
+    "timeDay": 330,
+    "timeWeek": 327,
+    "timeMonth": 327,
+    "timeYear": 327,
     "dailyMinutesDown": {
       "2022-02-10": 15
     }
@@ -111,11 +112,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.79%",
-    "time": 606,
-    "timeDay": 650,
-    "timeWeek": 606,
-    "timeMonth": 606,
-    "timeYear": 606,
+    "time": 632,
+    "timeDay": 754,
+    "timeWeek": 632,
+    "timeMonth": 632,
+    "timeYear": 632,
     "dailyMinutesDown": {
       "2022-02-10": 16
     }
@@ -131,11 +132,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.79%",
-    "time": 287,
-    "timeDay": 256,
-    "timeWeek": 287,
-    "timeMonth": 287,
-    "timeYear": 287,
+    "time": 292,
+    "timeDay": 286,
+    "timeWeek": 292,
+    "timeMonth": 292,
+    "timeYear": 292,
     "dailyMinutesDown": {
       "2022-02-10": 16
     }
@@ -146,16 +147,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "usamedic-dev",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
-    "time": 253,
-    "timeDay": 505,
-    "timeWeek": 253,
-    "timeMonth": 253,
-    "timeYear": 253,
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 261,
+    "timeDay": 459,
+    "timeWeek": 261,
+    "timeMonth": 261,
+    "timeYear": 261,
     "dailyMinutesDown": {
       "2022-02-10": 19
     }
@@ -171,11 +172,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.79%",
-    "time": 371,
-    "timeDay": 336,
-    "timeWeek": 371,
-    "timeMonth": 371,
-    "timeYear": 371,
+    "time": 406,
+    "timeDay": 488,
+    "timeWeek": 406,
+    "timeMonth": 406,
+    "timeYear": 406,
     "dailyMinutesDown": {
       "2022-02-10": 16
     }
@@ -191,11 +192,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 267,
-    "timeWeek": 267,
-    "timeMonth": 267,
-    "timeYear": 267,
+    "time": 288,
+    "timeDay": 288,
+    "timeWeek": 288,
+    "timeMonth": 288,
+    "timeYear": 288,
     "dailyMinutesDown": {}
   }
 ]
