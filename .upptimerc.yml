@@ -27,6 +27,9 @@ sites:
   - name: HIAS
     url: "$HIAS"
     
+  - name: Términos y plazos
+    url: "$TERMINOS"
+    
 # assignees: # Users to assign downtime issues (optional)
 #   - diveliastudio
 
