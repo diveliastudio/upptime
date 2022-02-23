@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 360,
-    "timeDay": 394,
-    "timeWeek": 415,
-    "timeMonth": 360,
-    "timeYear": 360,
+    "time": 368,
+    "timeDay": 593,
+    "timeWeek": 445,
+    "timeMonth": 368,
+    "timeYear": 368,
     "dailyMinutesDown": {
       "2022-02-10": 16
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 536,
-    "timeDay": 574,
-    "timeWeek": 536,
-    "timeMonth": 536,
-    "timeYear": 536,
+    "time": 542,
+    "timeDay": 587,
+    "timeWeek": 572,
+    "timeMonth": 542,
+    "timeYear": 542,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 745,
-    "timeDay": 337,
-    "timeWeek": 294,
-    "timeMonth": 745,
-    "timeYear": 745,
+    "time": 726,
+    "timeDay": 336,
+    "timeWeek": 297,
+    "timeMonth": 726,
+    "timeYear": 726,
     "dailyMinutesDown": {
       "2022-02-10": 15
     }
@@ -63,16 +63,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "alilab-front",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 499,
-    "timeDay": 602,
-    "timeWeek": 594,
-    "timeMonth": 499,
-    "timeYear": 499,
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 509,
+    "timeDay": 721,
+    "timeWeek": 590,
+    "timeMonth": 509,
+    "timeYear": 509,
     "dailyMinutesDown": {
       "2022-02-10": 35
     }
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 326,
-    "timeDay": 366,
-    "timeWeek": 331,
-    "timeMonth": 326,
-    "timeYear": 326,
+    "time": 329,
+    "timeDay": 395,
+    "timeWeek": 332,
+    "timeMonth": 329,
+    "timeYear": 329,
     "dailyMinutesDown": {
       "2022-02-10": 15
     }
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 685,
-    "timeDay": 799,
-    "timeWeek": 812,
-    "timeMonth": 685,
-    "timeYear": 685,
+    "time": 694,
+    "timeDay": 885,
+    "timeWeek": 803,
+    "timeMonth": 694,
+    "timeYear": 694,
     "dailyMinutesDown": {
       "2022-02-10": 16
     }
@@ -128,11 +128,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 292,
-    "timeDay": 346,
-    "timeWeek": 300,
-    "timeMonth": 292,
-    "timeYear": 292,
+    "time": 295,
+    "timeDay": 354,
+    "timeWeek": 297,
+    "timeMonth": 295,
+    "timeYear": 295,
     "dailyMinutesDown": {
       "2022-02-10": 16
     }
@@ -143,18 +143,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "usamedic-dev",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 312,
-    "timeDay": 609,
-    "timeWeek": 395,
-    "timeMonth": 312,
-    "timeYear": 312,
+    "uptime": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 311,
+    "timeDay": 256,
+    "timeWeek": 396,
+    "timeMonth": 311,
+    "timeYear": 311,
     "dailyMinutesDown": {
-      "2022-02-22": 9,
       "2022-02-10": 19
     }
   },
@@ -169,11 +168,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 432,
-    "timeDay": 358,
-    "timeWeek": 515,
-    "timeMonth": 432,
-    "timeYear": 432,
+    "time": 440,
+    "timeDay": 599,
+    "timeWeek": 509,
+    "timeMonth": 440,
+    "timeYear": 440,
     "dailyMinutesDown": {
       "2022-02-10": 16
     }
@@ -189,11 +188,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 306,
-    "timeDay": 349,
-    "timeWeek": 311,
-    "timeMonth": 306,
-    "timeYear": 306,
+    "time": 312,
+    "timeDay": 362,
+    "timeWeek": 321,
+    "timeMonth": 312,
+    "timeYear": 312,
     "dailyMinutesDown": {}
   }
 ]
