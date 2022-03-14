@@ -1,7 +1,7 @@
 url: $ALILAB
-status: down
-code: 502
-responseTime: 261
-lastUpdated: 2022-03-14T20:44:06.802Z
+status: up
+code: 200
+responseTime: 259
+lastUpdated: 2022-03-14T20:54:16.141Z
 startTime: Thu Feb 10 2022 19:23:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
