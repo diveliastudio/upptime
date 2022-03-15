@@ -5,20 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "divelia-cotis",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.94%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 374,
-    "timeDay": 298,
-    "timeWeek": 361,
-    "timeMonth": 393,
+    "timeDay": 346,
+    "timeWeek": 356,
+    "timeMonth": 395,
     "timeYear": 374,
-    "dailyMinutesDown": {
-      "2022-03-02": 17,
-      "2022-02-10": 16
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Acadia",
@@ -26,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "acadia",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 558,
-    "timeDay": 491,
-    "timeWeek": 521,
-    "timeMonth": 558,
-    "timeYear": 558,
-    "dailyMinutesDown": {
-      "2022-03-02": 16
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 556,
+    "timeDay": 505,
+    "timeWeek": 508,
+    "timeMonth": 556,
+    "timeYear": 556,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Alilab",
@@ -46,22 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "alilab",
     "status": "up",
-    "uptime": "98.70%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "98.67%",
-    "uptimeYear": "98.70%",
-    "time": 517,
-    "timeDay": 255,
-    "timeWeek": 283,
-    "timeMonth": 325,
-    "timeYear": 517,
-    "dailyMinutesDown": {
-      "2022-03-14": 10,
-      "2022-03-07": 557,
-      "2022-03-02": 16,
-      "2022-02-10": 15
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 512,
+    "timeDay": 267,
+    "timeWeek": 272,
+    "timeMonth": 326,
+    "timeYear": 512,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Alilab front",
@@ -69,21 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "alilab-front",
     "status": "up",
-    "uptime": "98.69%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.70%",
-    "uptimeYear": "98.69%",
-    "time": 540,
-    "timeDay": 603,
-    "timeWeek": 551,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 538,
+    "timeDay": 472,
+    "timeWeek": 526,
     "timeMonth": 579,
-    "timeYear": 540,
-    "dailyMinutesDown": {
-      "2022-03-07": 556,
-      "2022-03-02": 15,
-      "2022-02-10": 35
-    }
+    "timeYear": 538,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Refuerza",
@@ -91,19 +77,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "refuerza",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 328,
-    "timeDay": 243,
-    "timeWeek": 315,
-    "timeMonth": 328,
-    "timeYear": 328,
-    "dailyMinutesDown": {
-      "2022-02-10": 15
-    }
+    "uptimeYear": "100.00%",
+    "time": 326,
+    "timeDay": 268,
+    "timeWeek": 295,
+    "timeMonth": 327,
+    "timeYear": 326,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Refuerza front",
@@ -111,19 +95,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "refuerza-front",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 737,
-    "timeDay": 630,
-    "timeWeek": 774,
+    "uptimeYear": "100.00%",
+    "time": 735,
+    "timeDay": 647,
+    "timeWeek": 732,
     "timeMonth": 788,
-    "timeYear": 737,
-    "dailyMinutesDown": {
-      "2022-02-10": 16
-    }
+    "timeYear": 735,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Usamedic",
@@ -131,19 +113,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "usamedic",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 309,
-    "timeDay": 268,
-    "timeWeek": 328,
+    "uptimeYear": "100.00%",
+    "time": 308,
+    "timeDay": 286,
+    "timeWeek": 318,
     "timeMonth": 313,
-    "timeYear": 309,
-    "dailyMinutesDown": {
-      "2022-02-10": 16
-    }
+    "timeYear": 308,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Usamedic dev",
@@ -151,19 +131,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "usamedic-dev",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 321,
-    "timeDay": 248,
-    "timeWeek": 398,
+    "uptimeYear": "100.00%",
+    "time": 320,
+    "timeDay": 273,
+    "timeWeek": 389,
     "timeMonth": 359,
-    "timeYear": 321,
-    "dailyMinutesDown": {
-      "2022-02-10": 19
-    }
+    "timeYear": 320,
+    "dailyMinutesDown": {}
   },
   {
     "name": "HIAS",
@@ -171,19 +149,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "hias",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "100.00%",
     "time": 456,
-    "timeDay": 460,
-    "timeWeek": 403,
-    "timeMonth": 479,
+    "timeDay": 453,
+    "timeWeek": 413,
+    "timeMonth": 484,
     "timeYear": 456,
-    "dailyMinutesDown": {
-      "2022-02-10": 16
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Términos y plazos",
@@ -196,11 +172,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 320,
-    "timeDay": 256,
-    "timeWeek": 294,
-    "timeMonth": 320,
-    "timeYear": 320,
+    "time": 318,
+    "timeDay": 262,
+    "timeWeek": 282,
+    "timeMonth": 318,
+    "timeYear": 318,
     "dailyMinutesDown": {}
   }
 ]
