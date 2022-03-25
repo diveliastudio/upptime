@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "divelia-cotis",
     "status": "up",
-    "uptime": "99.18%",
+    "uptime": "99.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.24%",
     "uptimeMonth": "98.68%",
-    "uptimeYear": "99.18%",
+    "uptimeYear": "99.20%",
     "time": 382,
     "timeDay": 298,
     "timeWeek": 362,
@@ -150,9 +150,9 @@
     "url": "$HIAS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "hias",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -161,7 +161,9 @@
     "timeWeek": 482,
     "timeMonth": 484,
     "timeYear": 466,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-25": 0
+    }
   },
   {
     "name": "Términos y plazos",
