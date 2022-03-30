@@ -132,19 +132,19 @@
     "url": "$DEV_USAMEDIC",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "usamedic-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
     "time": 305,
-    "timeDay": 216,
-    "timeWeek": 252,
+    "timeDay": 245,
+    "timeWeek": 257,
     "timeMonth": 304,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2022-03-30": 0
+      "2022-03-30": 28
     }
   },
   {
