@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "divelia-cotis",
     "status": "up",
-    "uptime": "99.12%",
+    "uptime": "99.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.05%",
-    "uptimeYear": "99.12%",
-    "time": 377,
-    "timeDay": 615,
-    "timeWeek": 419,
+    "uptimeYear": "99.13%",
+    "time": 376,
+    "timeDay": 303,
+    "timeWeek": 418,
     "timeMonth": 366,
-    "timeYear": 377,
+    "timeYear": 376,
     "dailyMinutesDown": {
       "2022-04-20": 23,
       "2022-04-06": 395,
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 563,
-    "timeDay": 485,
-    "timeWeek": 636,
-    "timeMonth": 579,
-    "timeYear": 563,
+    "time": 562,
+    "timeDay": 495,
+    "timeWeek": 624,
+    "timeMonth": 580,
+    "timeYear": 562,
     "dailyMinutesDown": {
       "2022-04-07": 23
     }
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 262,
-    "timeWeek": 298,
+    "time": 406,
+    "timeDay": 261,
+    "timeWeek": 296,
     "timeMonth": 289,
-    "timeYear": 407,
+    "timeYear": 406,
     "dailyMinutesDown": {}
   },
   {
@@ -71,9 +71,9 @@
     "uptimeMonth": "98.56%",
     "uptimeYear": "99.40%",
     "time": 546,
-    "timeDay": 509,
-    "timeWeek": 556,
-    "timeMonth": 555,
+    "timeDay": 556,
+    "timeWeek": 569,
+    "timeMonth": 556,
     "timeYear": 546,
     "dailyMinutesDown": {
       "2022-04-05": 629
@@ -91,8 +91,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 319,
-    "timeDay": 283,
-    "timeWeek": 323,
+    "timeDay": 278,
+    "timeWeek": 320,
     "timeMonth": 317,
     "timeYear": 319,
     "dailyMinutesDown": {}
@@ -109,9 +109,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 752,
-    "timeDay": 727,
-    "timeWeek": 764,
-    "timeMonth": 780,
+    "timeDay": 754,
+    "timeWeek": 771,
+    "timeMonth": 776,
     "timeYear": 752,
     "dailyMinutesDown": {}
   },
@@ -126,11 +126,11 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 316,
-    "timeDay": 275,
-    "timeWeek": 443,
+    "time": 315,
+    "timeDay": 233,
+    "timeWeek": 439,
     "timeMonth": 331,
-    "timeYear": 316,
+    "timeYear": 315,
     "dailyMinutesDown": {
       "2022-04-18": 20
     }
@@ -147,9 +147,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 298,
-    "timeDay": 266,
-    "timeWeek": 282,
-    "timeMonth": 276,
+    "timeDay": 233,
+    "timeWeek": 280,
+    "timeMonth": 275,
     "timeYear": 298,
     "dailyMinutesDown": {
       "2022-03-30": 28
@@ -166,11 +166,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 474,
-    "timeDay": 336,
+    "time": 475,
+    "timeDay": 560,
     "timeWeek": 529,
-    "timeMonth": 482,
-    "timeYear": 474,
+    "timeMonth": 490,
+    "timeYear": 475,
     "dailyMinutesDown": {
       "2022-03-25": 18
     }
@@ -187,8 +187,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 307,
-    "timeDay": 274,
-    "timeWeek": 309,
+    "timeDay": 268,
+    "timeWeek": 311,
     "timeMonth": 302,
     "timeYear": 307,
     "dailyMinutesDown": {}
