@@ -26,9 +26,9 @@
     "url": "$ACADIA",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "acadia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
@@ -38,6 +38,7 @@
     "timeMonth": 582,
     "timeYear": 562,
     "dailyMinutesDown": {
+      "2022-04-27": 0,
       "2022-04-07": 23
     }
   },
