@@ -28,12 +28,12 @@
     "slug": "acadia",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "97.41%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.63%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.94%",
     "time": 564,
-    "timeDay": 613,
+    "timeDay": 645,
     "timeWeek": 583,
     "timeMonth": 584,
     "timeYear": 564,
@@ -103,9 +103,9 @@
     "url": "$FRONT_REFUERZA",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "refuerza-front",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -114,7 +114,9 @@
     "timeWeek": 731,
     "timeMonth": 765,
     "timeYear": 750,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-28": 0
+    }
   },
   {
     "name": "Usamedic",
