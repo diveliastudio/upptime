@@ -26,9 +26,9 @@
     "url": "$ACADIA",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "acadia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.63%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.94%",
@@ -38,6 +38,7 @@
     "timeMonth": 589,
     "timeYear": 564,
     "dailyMinutesDown": {
+      "2022-04-30": 0,
       "2022-04-27": 37,
       "2022-04-07": 23
     }
@@ -66,11 +67,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "alilab-front",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.56%",
-    "uptimeYear": "99.44%",
+    "uptimeYear": "99.45%",
     "time": 547,
     "timeDay": 658,
     "timeWeek": 546,
