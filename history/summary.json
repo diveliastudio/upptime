@@ -165,9 +165,9 @@
     "url": "$HIAS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "hias",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -177,6 +177,7 @@
     "timeMonth": 525,
     "timeYear": 480,
     "dailyMinutesDown": {
+      "2022-05-02": 0,
       "2022-03-25": 18
     }
   },
