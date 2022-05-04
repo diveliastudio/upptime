@@ -30,7 +30,7 @@ sites:
   - name: Términos y plazos
     url: "$TERMINOS"
     
-  - name: MediqKiz
+  - name: MedikQuiz
     url: "$MEDIKQUIZ"
     
   - name: PuccaSky
