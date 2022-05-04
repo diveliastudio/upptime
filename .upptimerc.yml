@@ -30,6 +30,15 @@ sites:
   - name: Términos y plazos
     url: "$TERMINOS"
     
+  - name: MediqKiz
+    url: "$MEDIKQUIZ"
+    
+  - name: PuccaSky
+    url: "$PUCCASKY"
+    
+  - name: Botiquin
+    url: "$BOTIQUIN"
+    
 # assignees: # Users to assign downtime issues (optional)
 #   - diveliastudio
 
