@@ -1,7 +1,7 @@
 url: $REFUERZA
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-05-18T23:04:05.637Z
+status: up
+code: 200
+responseTime: 188
+lastUpdated: 2022-05-19T19:12:12.216Z
 startTime: Thu Feb 10 2022 19:23:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
