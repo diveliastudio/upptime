@@ -38,6 +38,9 @@ sites:
     
   - name: Botiquin
     url: "$BOTIQUIN"
+  
+  - name: Doctorum
+    url: "$DOCTORUM"
     
 # assignees: # Users to assign downtime issues (optional)
 #   - diveliastudio
