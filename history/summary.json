@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "divelia-cotis",
     "status": "up",
-    "uptime": "99.16%",
+    "uptime": "99.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.54%",
     "uptimeMonth": "98.29%",
-    "uptimeYear": "99.16%",
+    "uptimeYear": "99.17%",
     "time": 382,
     "timeDay": 556,
     "timeWeek": 476,
@@ -220,9 +220,9 @@
     "url": "$MEDIKQUIZ",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "medik-quiz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -231,7 +231,9 @@
     "timeWeek": 260,
     "timeMonth": 252,
     "timeYear": 294,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-11": 0
+    }
   },
   {
     "name": "PuccaSky",
