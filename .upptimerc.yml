@@ -5,6 +5,9 @@ repo: upptime # The name of this repository
 sites:
   - name: Divelia Cotis
     url: "$COTIS_DIVELIA"
+  
+  - name: Divelia Cotis Dev
+    url: "$DEV_COTIS_DIVELIA"
     
   - name: Acadia
     url: "$ACADIA"
@@ -41,6 +44,11 @@ sites:
   
   - name: Doctorum
     url: "$DOCTORUM"
+  
+  - name: Alfaro Dev
+    url: "$ALFARO_DEV"
+    expectedStatusCodes:
+      - 404
     
 # assignees: # Users to assign downtime issues (optional)
 #   - diveliastudio
