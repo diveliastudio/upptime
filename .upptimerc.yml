@@ -51,7 +51,7 @@ sites:
       - 404
   
   - name: Cobi
-    url: "$COBI"
+    url: $COBI_BACKEND
 
   - name: Cobi-MQTT - MQTT Port
     check: "tcp-ping"
