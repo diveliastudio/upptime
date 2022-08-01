@@ -6,7 +6,7 @@
     "slug": "divelia-cotis",
     "status": "up",
     "uptime": "96.78%",
-    "uptimeDay": "25.10%",
+    "uptimeDay": "25.33%",
     "uptimeWeek": "40.33%",
     "uptimeMonth": "85.25%",
     "uptimeYear": "96.78%",
@@ -364,19 +364,19 @@
     "url": "$COBI_MQTT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cobi-mqtt-mqtt-port",
-    "status": "down",
-    "uptime": "56.21%",
-    "uptimeDay": "56.21%",
-    "uptimeWeek": "56.21%",
-    "uptimeMonth": "56.21%",
-    "uptimeYear": "56.21%",
-    "time": 65,
-    "timeDay": 65,
-    "timeWeek": 65,
-    "timeMonth": 65,
-    "timeYear": 65,
+    "status": "up",
+    "uptime": "53.71%",
+    "uptimeDay": "53.71%",
+    "uptimeWeek": "53.71%",
+    "uptimeMonth": "53.71%",
+    "uptimeYear": "53.71%",
+    "time": 64,
+    "timeDay": 64,
+    "timeWeek": 64,
+    "timeMonth": 64,
+    "timeYear": 64,
     "dailyMinutesDown": {
-      "2022-08-01": 26
+      "2022-08-01": 29
     }
   },
   {
@@ -384,19 +384,19 @@
     "url": "$COBI_MQTT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cobi-mqtt-ws-port",
-    "status": "down",
-    "uptime": "56.25%",
-    "uptimeDay": "56.25%",
-    "uptimeWeek": "56.25%",
-    "uptimeMonth": "56.25%",
-    "uptimeYear": "56.25%",
-    "time": 50,
-    "timeDay": 50,
-    "timeWeek": 50,
-    "timeMonth": 50,
-    "timeYear": 50,
+    "status": "up",
+    "uptime": "53.71%",
+    "uptimeDay": "53.71%",
+    "uptimeWeek": "53.71%",
+    "uptimeMonth": "53.71%",
+    "uptimeYear": "53.71%",
+    "time": 46,
+    "timeDay": 46,
+    "timeWeek": 46,
+    "timeMonth": 46,
+    "timeYear": 46,
     "dailyMinutesDown": {
-      "2022-08-01": 26
+      "2022-08-01": 29
     }
   }
 ]
