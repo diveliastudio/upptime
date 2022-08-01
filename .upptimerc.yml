@@ -55,12 +55,12 @@ sites:
 
   - name: Cobi-MQTT - MQTT Port
     check: "tcp-ping"
-    url: "$COBI_MQTT"
+    url: $COBI_MQTT
     port: 1883
 
   - name: Cobi-MQTT - WS Port
     check: "tcp-ping"
-    url: "$COBI_MQTT"
+    url: $COBI_MQTT
     port: 8083
     
 # assignees: # Users to assign downtime issues (optional)
