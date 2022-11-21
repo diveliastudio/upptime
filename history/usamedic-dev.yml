@@ -1,7 +1,7 @@
 url: $DEV_USAMEDIC
-status: down
-code: 502
-responseTime: 268
-lastUpdated: 2022-11-21T21:13:53.190Z
+status: up
+code: 200
+responseTime: 1575
+lastUpdated: 2022-11-21T21:31:20.652Z
 startTime: Thu Feb 10 2022 19:23:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
