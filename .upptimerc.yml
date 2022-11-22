@@ -39,17 +39,12 @@ sites:
   - name: PuccaSky
     url: "$PUCCASKY"
     
-  - name: Botiquin
-    url: "$BOTIQUIN"
+#  - name: Botiquin
+#    url: "$BOTIQUIN"
   
   - name: Doctorum
     url: "$DOCTORUM"
-  
-  - name: Alfaro Dev
-    url: "$ALFARO_DEV"
-    expectedStatusCodes:
-      - 404
-  
+    
   - name: Cobi
     url: $COBI_BACKEND
 
@@ -62,6 +57,12 @@ sites:
     check: "tcp-ping"
     url: $COBI_MQTT
     port: 8083
+  
+  - name: TSLC Landing
+    url: "$TSLC_FRONT"
+ 
+  - name: Docentes API
+    url: "$DOCENTES_API"
     
 # assignees: # Users to assign downtime issues (optional)
 #   - diveliastudio
