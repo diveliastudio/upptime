@@ -62,11 +62,12 @@ sites:
     url: "$TSLC_FRONT"
  
   - name: Docentes API
-    url: ${{ secrets.DOCENTES_API }}
+    url: $DOCENTES_API
  
   - name: Equilibrium API
-    url: ${{ secrets.EQUILIBRIUM }}
-    
+    url: $EQUILIBRIUM
+
+
 # assignees: # Users to assign downtime issues (optional)
 #   - diveliastudio
 
