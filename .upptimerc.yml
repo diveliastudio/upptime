@@ -63,6 +63,9 @@ sites:
  
   - name: Docentes API
     url: "$DOCENTES_API"
+  
+  - name: Equilibrium API
+    url: "$EQUILIBRIUM_API"
     
 # assignees: # Users to assign downtime issues (optional)
 #   - diveliastudio
