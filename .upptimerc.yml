@@ -7,43 +7,43 @@ sites:
     url: $COTIS_DIVELIA
   
   - name: Divelia Cotis Dev
-    url: "$DEV_COTIS_DIVELIA"
+    url: $DEV_COTIS_DIVELIA
     
   - name: Acadia
-    url: "$ACADIA"
+    url: $ACADIA
 
   - name: Alilab
-    url: "$ALILAB"
+    url: $ALILAB
   - name: Alilab front
-    url: "$FRONT_ALILAB"
+    url: $FRONT_ALILAB
   
   - name: Refuerza
-    url: "$REFUERZA"
+    url: $REFUERZA
   - name: Refuerza front
-    url: "$FRONT_REFUERZA"
+    url: $FRONT_REFUERZA
   
   - name: Usamedic
-    url: "$USAMEDIC"
+    url: $USAMEDIC
   - name: Usamedic dev
-    url: "$DEV_USAMEDIC"
+    url: $DEV_USAMEDIC
   
   - name: HIAS
-    url: "$HIAS"
+    url: $HIAS
     
   - name: Términos y plazos
-    url: "$TERMINOS"
+    url: $TERMINOS
     
   - name: MedikQuiz
-    url: "$MEDIKQUIZ"
+    url: $MEDIKQUIZ
     
   - name: PuccaSky
-    url: "$PUCCASKY"
+    url: $PUCCASKY
     
 #  - name: Botiquin
 #    url: "$BOTIQUIN"
   
   - name: Doctorum
-    url: "$DOCTORUM"
+    url: $DOCTORUM
     
   - name: Cobi
     url: $COBI_BACKEND
@@ -59,7 +59,7 @@ sites:
     port: 8083
   
   - name: TSLC Landing
-    url: "$TSLC_FRONT"
+    url: $TSLC_FRONT
  
   - name: Docentes API
     url: $DOCENTES_API
