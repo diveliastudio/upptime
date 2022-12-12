@@ -323,9 +323,9 @@
     "slug": "doctorum",
     "status": "up",
     "uptime": "98.63%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "83.71%",
-    "uptimeMonth": "95.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "83.80%",
+    "uptimeMonth": "95.82%",
     "uptimeYear": "98.63%",
     "time": 347,
     "timeDay": 301,
@@ -333,7 +333,6 @@
     "timeMonth": 353,
     "timeYear": 347,
     "dailyMinutesDown": {
-      "2022-12-12": 9,
       "2022-12-09": 17,
       "2022-12-06": 1378,
       "2022-12-05": 239,
@@ -454,19 +453,19 @@
     "url": "$EQUILIBRIUM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "equilibrium-api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 315,
-    "timeDay": 274,
-    "timeWeek": 315,
-    "timeMonth": 315,
-    "timeYear": 315,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 404,
+    "timeDay": 827,
+    "timeWeek": 404,
+    "timeMonth": 404,
+    "timeYear": 404,
     "dailyMinutesDown": {
-      "2022-12-12": 1
+      "2022-12-12": 20
     }
   }
 ]
