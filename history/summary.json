@@ -437,19 +437,19 @@
     "url": "$DOCENTES_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "docentes-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 297,
-    "timeDay": 649,
-    "timeWeek": 314,
-    "timeMonth": 297,
-    "timeYear": 297,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 306,
+    "timeDay": 621,
+    "timeWeek": 349,
+    "timeMonth": 306,
+    "timeYear": 306,
     "dailyMinutesDown": {
-      "2022-12-21": 1
+      "2022-12-21": 9
     }
   },
   {
