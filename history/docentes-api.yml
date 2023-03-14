@@ -1,7 +1,7 @@
 url: $DOCENTES_API
-status: down
-code: 502
-responseTime: 203
-lastUpdated: 2023-03-14T21:14:43.197Z
+status: up
+code: 200
+responseTime: 1505
+lastUpdated: 2023-03-14T21:26:29.209Z
 startTime: Tue Nov 22 2022 21:56:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
