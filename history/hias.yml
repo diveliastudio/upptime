@@ -1,7 +1,7 @@
 url: $HIAS
-status: up
-code: 200
-responseTime: 883
-lastUpdated: 2023-09-05T23:02:49.093Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-09-06T03:54:52.087Z
 startTime: 2022-02-10T19:23:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
