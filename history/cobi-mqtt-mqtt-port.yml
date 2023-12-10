@@ -1,7 +1,7 @@
 url: $COBI_MQTT
 status: up
 code: 200
-responseTime: 81
-lastUpdated: 2023-12-09T23:02:15.235Z
+responseTime: 80
+lastUpdated: 2023-12-10T23:02:08.609Z
 startTime: 2022-08-01T19:55:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
