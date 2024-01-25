@@ -101,9 +101,9 @@
     "url": "$ACADIA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acadia",
-    "status": "up",
+    "status": "down",
     "uptime": "98.89%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "0.68%",
     "uptimeWeek": "65.67%",
     "uptimeMonth": "91.29%",
     "uptimeYear": "98.72%",
@@ -187,7 +187,7 @@
     "timeMonth": 0,
     "timeYear": 497,
     "dailyMinutesDown": {
-      "2024-01-25": 928,
+      "2024-01-25": 938,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
@@ -514,7 +514,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-25": 928,
+      "2024-01-25": 938,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
@@ -898,7 +898,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-25": 928,
+      "2024-01-25": 938,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
