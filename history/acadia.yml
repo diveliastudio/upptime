@@ -1,7 +1,7 @@
 url: $ACADIA
-status: down
-code: 502
-responseTime: 239
-lastUpdated: 2024-01-25T17:28:42.967Z
+status: up
+code: 200
+responseTime: 765
+lastUpdated: 2024-01-25T17:37:42.607Z
 startTime: 2022-02-15T23:18:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
