@@ -1,7 +1,7 @@
 url: $PUCCASKY
-status: up
-code: 200
-responseTime: 278
-lastUpdated: 2024-04-24T23:04:13.057Z
+status: down
+code: 502
+responseTime: 195
+lastUpdated: 2024-04-25T04:39:06.392Z
 startTime: 2022-05-04T23:12:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
