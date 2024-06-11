@@ -1,7 +1,7 @@
 url: $COBI_BACKEND
-status: down
-code: 404
-responseTime: 357
-lastUpdated: 2024-06-11T03:18:35.395Z
+status: up
+code: 200
+responseTime: 988
+lastUpdated: 2024-06-11T03:31:32.796Z
 startTime: 2022-08-01T19:55:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
