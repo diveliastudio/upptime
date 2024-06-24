@@ -1,7 +1,7 @@
 url: $USAMEDIC
-status: down
-code: 502
-responseTime: 307
-lastUpdated: 2024-06-24T07:44:36.826Z
+status: up
+code: 200
+responseTime: 981
+lastUpdated: 2024-06-24T07:54:40.994Z
 startTime: 2022-02-10T19:23:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
