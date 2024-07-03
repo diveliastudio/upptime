@@ -1,7 +1,7 @@
 url: $FRONT_REFUERZA
-status: down
-code: 404
-responseTime: 647
-lastUpdated: 2024-07-03T19:20:46.194Z
+status: up
+code: 200
+responseTime: 904
+lastUpdated: 2024-07-03T19:36:04.460Z
 startTime: 2022-02-10T19:23:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
