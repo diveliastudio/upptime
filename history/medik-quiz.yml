@@ -1,7 +1,7 @@
 url: $MEDIKQUIZ
-status: up
-code: 200
-responseTime: 139
-lastUpdated: 2025-08-27T23:09:32.603Z
+status: down
+code: 404
+responseTime: 155
+lastUpdated: 2025-08-28T19:27:52.018Z
 startTime: 2022-05-04T23:15:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
