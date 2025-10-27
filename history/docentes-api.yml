@@ -1,7 +1,7 @@
 url: $DOCENTES_API
-status: up
-code: 200
-responseTime: 1223
-lastUpdated: 2025-10-27T18:59:14.783Z
+status: down
+code: 502
+responseTime: 369
+lastUpdated: 2025-10-27T20:18:05.215Z
 startTime: 2022-11-22T21:56:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
