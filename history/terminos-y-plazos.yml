@@ -1,7 +1,7 @@
 url: $TERMINOS
-status: down
-code: 404
-responseTime: 156
-lastUpdated: 2026-10-13T03:26:13.755Z
+status: up
+code: 200
+responseTime: 256
+lastUpdated: 2026-10-13T17:20:41.599Z
 startTime: 2022-02-15T21:34:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
